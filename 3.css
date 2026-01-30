@@ -1,0 +1,13 @@
+p1{
+    color: red;
+}
+.random{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+    border-radius: 50%;
+    align-items: center;
+    font-style: italic;
+    color: blueviolet;
+}
